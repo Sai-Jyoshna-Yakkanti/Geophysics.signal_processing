@@ -2,7 +2,7 @@
 
 ![Header Image](https://path-to-your-image.jpg)
 
-This portfolio showcases my skills in **seismic signal processing**, **machine learning**, and **high-performance computing (HPC)** for geophysical applications. It follows industry workflows and emphasizes key aspects such as seismic event detection, data automation, and scalable data pipelines.
+This portfolio showcases my ability in **seismic signal processing**, **machine learning**, and **high-performance computing (HPC)** for geophysical applications. It follows industry workflows and emphasizes key aspects such as seismic event detection, data automation, and scalable data pipelines.
 
 ---
 
@@ -79,11 +79,6 @@ This portfolio demonstrates the following tools and technologies:
 - **AWS**: Cloud-based workflows with S3 and EC2.
 - **Docker**: Ensures reproducibility of environments.
 - **Conda**: Package management for environment consistency.
-
----
-
-
----
 
 ## **About Me**
 
