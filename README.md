@@ -1,14 +1,19 @@
 # Seismic Signal Processing & Machine Learning Portfolio
 
-![Header Image](https://path-to-your-image.jpg)
-
 This portfolio showcases my ability in **seismic signal processing**, **machine learning**, and **high-performance computing (HPC)** for geophysical applications. It follows industry workflows and emphasizes key aspects such as seismic event detection, data automation, and scalable data pipelines.
+
+---
+## **About Me**
+
+I am passionate about using **signal processing** and **machine learning** to solve problems in **geophysics** and **earth sciences**. With experience in **high-performance computing**, I am building this portfolio to apply for roles that leverage these skills in seismic data analysis, modeling, and automation.
+
+I come from a physics background and pursued a business master's due to a scholarship opportunity. However, my passion has always remained in physics and geophysics, as reflected in my independent project work.
+
+📄 [View my introduction and journey](Introduction_Y_Sai_Jyoshna.pdf)
 
 ---
 
 ## **Project Overview** 🌍
-
-![Workflow Diagram](https://path-to-your-workflow-image.png)
 
 This project includes the following phases:
 
@@ -53,16 +58,16 @@ Here’s a summary of the notebooks and techniques used so far:
 
 ## **Repository Structure**
 
-├── notebooks/ # Project notebooks for each phase
-│ ├── 01_Basics.ipynb
-│ ├── ...
-│ └── 12_HPC_and_Parallel_Processing.ipynb
-├── reports/ # Extracted metadata and figures
-├── scripts/ # AWS & automation scripts
-├── data/ # Seismic data files (git-ignored)
-├── README.md # Project documentation
-└── environment.yml # Conda environment for reproducibility
-
+├── notebooks/ # Project notebooks for each phase  
+│ ├── 01_Basics.ipynb  
+│ ├── ...  
+│ └── 12_HPC_and_Parallel_Processing.ipynb  
+├── reports/ # Extracted metadata and figures  
+├── scripts/ # AWS & automation scripts  
+├── data/ # Seismic data files (git-ignored)  
+├── README.md # Project documentation  
+└── environment.yml # Conda environment for reproducibility  
+  
 
 
 ---
@@ -79,10 +84,6 @@ This portfolio demonstrates the following tools and technologies:
 - **AWS**: Cloud-based workflows with S3 and EC2.
 - **Docker**: Ensures reproducibility of environments.
 - **Conda**: Package management for environment consistency.
-
-## **About Me**
-
-I am passionate about using **signal processing** and **machine learning** to solve problems in **geophysics** and **earth sciences**. With experience in **high-performance computing**, I am building this portfolio to apply for roles that leverage these skills in seismic data analysis, modeling, and automation.
 
 ---
 
